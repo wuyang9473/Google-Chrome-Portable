@@ -18,9 +18,9 @@ https://github.com/Bush2021/chrome_plus
 
 全自动无人管理项目，每周定时拉取最新Chrome离线包，并封装为便携版。
 
-采用GitHub Actions自动编译发布，下载地址：[Google-Chrome-Portable](https://nightly.link/wuyangdaily/Google-Chrome-Portable/workflows/build/main)
+采用GitHub Actions自动编译发布，下载地址：[Google-Chrome-Portable](https://nightly.link/wuyang9473/Google-Chrome-Portable/workflows/build/main)
 
-状态：[![build status](https://github.com/wuyangdaily/Google-Chrome-Portable/actions/workflows/build.yml/badge.svg)](https://github.com/wuyangdaily/Google-Chrome-Portable/actions/workflows/build.yml)
+状态：[![build status](https://github.com/wuyang9473/Google-Chrome-Portable/actions/workflows/build.yml/badge.svg)](https://github.com/wuyang9473/Google-Chrome-Portable/actions/workflows/build.yml)
 
 # 安装
 
